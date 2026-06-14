@@ -25,7 +25,7 @@ flutter run -d chrome
 
 ---
 
-## Arquitectura de Flutter
+## Arquitectura de Flutter.
 
 Flutter se organiza en tres capas principales:
 
