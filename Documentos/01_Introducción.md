@@ -1,5 +1,5 @@
 
-# 1. Introducción a Flutter
+# 1. Introducción a Flutter.
 
 ## ¿Qué es Flutter?
 
