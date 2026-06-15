@@ -43,7 +43,7 @@ Flutter se organiza en tres capas principales:
 
 ---
 
-## Todo en Flutter es un Widget
+## Todo en Flutter es un Widget.
 
 El concepto más importante de Flutter es que **todo es un widget**:
 
