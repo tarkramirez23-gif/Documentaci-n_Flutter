@@ -1,6 +1,6 @@
 Documentación de Flutter.
 ---
-## INDICE
+## INDICE.
 
 | # | Tema | Descripción |
 |---|---|---|
