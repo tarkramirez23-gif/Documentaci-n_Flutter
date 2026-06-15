@@ -82,7 +82,7 @@ void main() {
 
 ---
 
-## Estructura de un proyecto Flutter
+## Estructura de un proyecto Flutter.
 
 Al crear un proyecto con `flutter create`, obtienes:
 
