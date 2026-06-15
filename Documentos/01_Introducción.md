@@ -71,7 +71,7 @@ void main() {
 
 ---
 
-## Tipos de Widgets
+## Tipos de Widgets.
 
 | Tipo | Descripción | Ejemplo |
 |------|-------------|---------|
