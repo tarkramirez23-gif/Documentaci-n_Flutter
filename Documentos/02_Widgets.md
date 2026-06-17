@@ -11,7 +11,7 @@ Un widget es un componente visual. Puede ser un texto, un botón, un campo de te
 
 ---
 
-## 1. Widget Text
+## 1. Widget Text.
 
 El widget `Text` muestra un texto en pantalla.
 
