@@ -1,5 +1,5 @@
 # Widgets básicos en Flutter.
-### Text, Input, Button y Formulario
+### Text, Input, Button y Formulario.
 
 > Los widgets son los bloques de construcción de cualquier app en Flutter. Todo lo que ves en pantalla es un widget.
 
