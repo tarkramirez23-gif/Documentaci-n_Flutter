@@ -43,7 +43,7 @@ Text(
 
 ---
 
-## 2. Widget TextField (Input)
+## 2. Widget TextField (Input).
 
 El widget `TextField` permite al usuario escribir texto.
 
