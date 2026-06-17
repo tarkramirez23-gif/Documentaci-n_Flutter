@@ -94,7 +94,7 @@ print(_controller.text); // imprime lo que escribió el usuario
 
 Flutter tiene varios tipos de botones:
 
-### ElevatedButton (botón con sombra)
+### ElevatedButton (botón con sombra).
 
 ```dart
 ElevatedButton(
