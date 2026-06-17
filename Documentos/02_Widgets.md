@@ -47,7 +47,7 @@ Text(
 
 El widget `TextField` permite al usuario escribir texto.
 
-### Ejemplo básico
+### Ejemplo básico.
 
 ```dart
 TextField(
