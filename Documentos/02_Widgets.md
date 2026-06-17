@@ -21,7 +21,7 @@ El widget `Text` muestra un texto en pantalla.
 Text('Hola, Flutter!')
 ```
 
-### Con estilos
+### Con estilos.
 
 ```dart
 Text(
