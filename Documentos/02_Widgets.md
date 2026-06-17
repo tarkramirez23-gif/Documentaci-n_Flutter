@@ -90,7 +90,7 @@ print(_controller.text); // imprime lo que escribió el usuario
 
 ---
 
-## 3. Widget Button
+## 3. Widget Button.
 
 Flutter tiene varios tipos de botones:
 
