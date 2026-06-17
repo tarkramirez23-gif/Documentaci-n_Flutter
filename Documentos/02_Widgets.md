@@ -59,7 +59,7 @@ TextField(
 )
 ```
 
-### Capturar lo que escribe el usuario
+### Capturar lo que escribe el usuario.
 
 Para leer el valor del `TextField` se usa un `TextEditingController`:
 
