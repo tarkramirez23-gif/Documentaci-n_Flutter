@@ -15,7 +15,7 @@ Un widget es un componente visual. Puede ser un texto, un botón, un campo de te
 
 El widget `Text` muestra un texto en pantalla.
 
-### Ejemplo básico
+### Ejemplo básico.
 
 ```dart
 Text('Hola, Flutter!')
