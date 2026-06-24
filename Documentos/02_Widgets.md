@@ -127,7 +127,7 @@ OutlinedButton(
 )
 ```
 
-### Con estilo personalizado
+### Con estilo personalizado.
 
 ```dart
 ElevatedButton(
