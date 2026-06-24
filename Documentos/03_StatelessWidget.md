@@ -1,4 +1,4 @@
-# StatelessWidget en Flutter
+# StatelessWidget en Flutter.
 
 > Un widget que no cambia. Muestra información fija que no se actualiza mientras la app está corriendo.
 
