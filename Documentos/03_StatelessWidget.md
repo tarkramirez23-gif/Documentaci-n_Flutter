@@ -18,7 +18,7 @@ Un `StatelessWidget` es un widget **sin estado**, lo que significa que una vez q
 
 ---
 
-## Estructura básica
+## Estructura básica.
 
 ```dart
 import 'package:flutter/material.dart';
