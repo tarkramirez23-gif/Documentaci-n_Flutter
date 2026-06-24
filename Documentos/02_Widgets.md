@@ -206,7 +206,7 @@ class _MiFormularioState extends State<MiFormulario> {
 
 ---
 
-## Resumen
+## Resumen.
 
 | Widget | Para qué sirve |
 |---|---|
