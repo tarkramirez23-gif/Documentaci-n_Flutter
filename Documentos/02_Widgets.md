@@ -143,7 +143,7 @@ ElevatedButton(
 
 ---
 
-## 4. Formulario completo
+## 4. Formulario completo.
 
 Un formulario combina `TextField` y `ElevatedButton` para capturar datos del usuario.
 
