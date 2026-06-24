@@ -105,7 +105,7 @@ ElevatedButton(
 )
 ```
 
-### TextButton (botón de texto plano)
+### TextButton (botón de texto plano).
 
 ```dart
 TextButton(
