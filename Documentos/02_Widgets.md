@@ -116,7 +116,7 @@ TextButton(
 )
 ```
 
-### OutlinedButton (botón con borde)
+### OutlinedButton (botón con borde).
 
 ```dart
 OutlinedButton(
