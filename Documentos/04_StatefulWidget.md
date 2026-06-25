@@ -1,4 +1,4 @@
-# StatefulWidget en Flutter
+# StatefulWidget en Flutter.
 
 > Un widget que sí puede cambiar. Cuando el estado se actualiza, la pantalla se redibuja automáticamente.
 
