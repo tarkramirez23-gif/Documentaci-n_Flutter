@@ -91,7 +91,7 @@ class PantallaBienvenida extends StatelessWidget {
 
 ---
 
-## StatelessWidget con parámetros
+## StatelessWidget con parámetros.
 
 Puedes pasarle datos a un `StatelessWidget` mediante el constructor:
 
