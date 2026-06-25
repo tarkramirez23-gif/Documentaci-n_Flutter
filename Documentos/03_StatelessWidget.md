@@ -42,7 +42,7 @@ class MiWidget extends StatelessWidget {
 
 ---
 
-## Ejemplo completo
+## Ejemplo completo.
 
 Una pantalla de bienvenida hecha con `StatelessWidget`:
 
