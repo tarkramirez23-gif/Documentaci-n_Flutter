@@ -18,7 +18,7 @@ Un `StatefulWidget` es un widget **con estado**, lo que significa que puede **ca
 
 ---
 
-## Estructura básica
+## Estructura básica.
 
 Un `StatefulWidget` siempre se compone de **dos clases**:
 
