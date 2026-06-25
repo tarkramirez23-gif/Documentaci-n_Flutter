@@ -154,7 +154,7 @@ TarjetaUsuario(
 
 ---
 
-## Resumen
+## Resumen.
 
 ```
 StatelessWidget
