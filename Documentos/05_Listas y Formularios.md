@@ -26,7 +26,7 @@ ListView(
 
 ---
 
-### ListView.builder — para listas dinámicas
+### ListView.builder — para listas dinámicas.
 
 Cuando tienes muchos elementos o una lista que viene de datos reales, usa `ListView.builder`. Es más eficiente porque solo construye los elementos visibles.
 
