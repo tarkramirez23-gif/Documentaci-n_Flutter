@@ -169,7 +169,7 @@ class _PantallaToggleState extends State<PantallaToggle> {
 
 ---
 
-## Ciclo de vida básico
+## Ciclo de vida básico.
 
 ```
 createState()         → se crea el estado
