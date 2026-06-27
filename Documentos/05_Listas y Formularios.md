@@ -1,4 +1,4 @@
-# Listas y Formularios en Flutter
+# Listas y Formularios en Flutter.
 
 > Aprende a mostrar colecciones de datos y a capturar información del usuario de forma estructurada.
 
