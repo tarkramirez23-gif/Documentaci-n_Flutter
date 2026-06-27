@@ -158,7 +158,7 @@ class _PantallaToggleState extends State<PantallaToggle> {
 
 ---
 
-## StatelessWidget vs StatefulWidget
+## StatelessWidget vs StatefulWidget.
 
 | | StatelessWidget | StatefulWidget |
 |---|---|---|
