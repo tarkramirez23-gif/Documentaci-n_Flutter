@@ -4,7 +4,7 @@
 
 ---
 
-## Parte 1: Listas
+## Parte 1: Listas.
 
 ### ¿Qué es una lista en Flutter?
 
